@@ -2,7 +2,7 @@
 
 ## Profile
 
-DevOps Engineer with 1 year of hands-on experience in containers, CI/CD, and monitoring. Able to deploy and maintain infrastructure, automate routine processes, and work confidently with Linux systems. Quick to learn, adaptable to new technologies, and focused on building reliable and scalable infrastructure solutions.
+DevOps Engineer with 2 year of hands-on experience in containers, CI/CD, and monitoring. Able to deploy and maintain infrastructure, automate routine processes, and work confidently with Linux systems. Quick to learn, adaptable to new technologies, and focused on building reliable and scalable infrastructure solutions.
 
 ## Core Stack
 
